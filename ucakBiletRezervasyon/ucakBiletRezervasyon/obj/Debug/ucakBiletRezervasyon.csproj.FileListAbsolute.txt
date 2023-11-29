@@ -1,0 +1,11 @@
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\bin\Debug\ucakBiletRezervasyon.exe.config
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\bin\Debug\ucakBiletRezervasyon.exe
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\bin\Debug\ucakBiletRezervasyon.pdb
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\obj\Debug\ucakBiletRezervasyon.csproj.AssemblyReference.cache
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\obj\Debug\ucakBiletRezervasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\obj\Debug\ucakBiletRezervasyon.Form1.resources
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\obj\Debug\ucakBiletRezervasyon.Properties.Resources.resources
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\obj\Debug\ucakBiletRezervasyon.csproj.GenerateResource.cache
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\obj\Debug\ucakBiletRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\obj\Debug\ucakBiletRezervasyon.exe
+C:\Users\atikm\source\repos\ucakBiletRezervasyon\ucakBiletRezervasyon\obj\Debug\ucakBiletRezervasyon.pdb
